@@ -14,14 +14,11 @@ function Header() {
             </a>
             <Menu>
                 {cars && cars.map((car,index)=>(
-                    <a key={index} href="#">{cars}</a>
+                    <a key={index} href="#">{car}</a>
                 )
                     
                 )}
-    {/* <a href="#">Model S</a>
-    <a href="#">Model 3</a>
-    <a href="#">Model X</a>
-    <a href="#">Model Y</a> */}
+    
             </Menu>
             <RightMenu>
                 <a href="#">Shop</a>
