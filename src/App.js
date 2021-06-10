@@ -8,7 +8,7 @@ import Home from './componenets/Home';
 function App() {
   return (
     <div className="App">
-      {/* <Header/> */}
+      <Header/>
       <Home/>
       </div>
   );

@@ -56,7 +56,7 @@ function home() {
       />
       <Section
       
-      title="Solar foe new Roofs"
+      title="Solar Panel for new Roofs"
       description="Solar Roof Costs Less Than A New Roof"
       backgroundImg="solar-roof.jpg"
       leftBtnText="Order now"
